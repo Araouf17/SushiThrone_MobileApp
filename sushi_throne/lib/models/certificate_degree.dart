@@ -1,0 +1,1 @@
+enum certificate_degree {Male, Female}
